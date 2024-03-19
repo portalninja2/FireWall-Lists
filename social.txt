@@ -1,5 +1,10 @@
-youtube.com
-spotify.com
-spotify.de
-tiktok.com
-tiktok.de
+0.0.0.0 youtube.com
+0.0.0.0 spotify.com
+0.0.0.0 spotify.de
+0.0.0.0 tiktok.com
+0.0.0.0 tiktok.de
+0.0.0.0 music.youtube.de
+0.0.0.0 music.youtube.com
+0.0.0.0 instagram.com
+0.0.0.0 instagram.de
+
